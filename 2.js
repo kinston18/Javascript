@@ -16,7 +16,3 @@ else{
 
 }
 
-
-
-//output
-console.log(myAge)
