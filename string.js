@@ -1,7 +1,7 @@
 
 
-let username = "per"
-let message = "You have tree new notifications"
+let username = "Prajjwal"
+let message = "You have three new notifications"
 
 let messageToUser = message + ", " + username + "!"
 
