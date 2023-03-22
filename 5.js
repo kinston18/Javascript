@@ -4,4 +4,4 @@ function square(num){
     return ans;
 }
 var square2 = square(n);
-var square4= square(4);
+var square4= square(4); 
