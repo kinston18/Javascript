@@ -8,6 +8,7 @@ console.log("You entered "+userAnswerAge);
 //processing
 if(userAnswerAge==="yes"){
     //output
+    
     console.log("You are right!")
     score++;
     console.log("Score is: "+score)
