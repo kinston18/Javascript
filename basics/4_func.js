@@ -2,6 +2,7 @@ function add(numOne,numTwo){
     var sum = numOne + numTwo;
     return sum;
     }
+    //
 
 
     var result=add(2,5);
