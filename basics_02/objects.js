@@ -33,6 +33,8 @@ JsUser.greeting = function(){
 JsUser.greetingTwo = function(){
     console.log(`Hello JS user, ${this.name}`);
 }
-
+JsUser.greetingTwo = function(){
+    console.log(`Hello JS user ${this.age}`)
+}
 console.log(JsUser.greeting());
 console.log(JsUser.greetingTwo());
